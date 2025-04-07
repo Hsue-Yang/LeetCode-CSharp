@@ -1,0 +1,15 @@
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\bin\Debug\net8.0\CSharpPratice.exe
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\bin\Debug\net8.0\CSharpPratice.deps.json
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\bin\Debug\net8.0\CSharpPratice.runtimeconfig.json
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\bin\Debug\net8.0\CSharpPratice.dll
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\bin\Debug\net8.0\CSharpPratice.pdb
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.AssemblyInfoInputs.cache
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.AssemblyInfo.cs
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.csproj.CoreCompileInputs.cache
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.sourcelink.json
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.dll
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\refint\CSharpPratice.dll
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.pdb
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\CSharpPratice.genruntimeconfig.cache
+D:\User\Fork\JS-Practice\C#\CSharpPratice\CSharpPratice\obj\Debug\net8.0\ref\CSharpPratice.dll
